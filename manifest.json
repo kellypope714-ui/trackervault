@@ -1,0 +1,16 @@
+{
+  "name": "Tracker Vault",
+  "short_name": "TrackVault",
+  "description": "A tracker manager built by Kelly",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#cd4057",
+  "theme_color": "#f26b80",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
